@@ -1,4 +1,4 @@
-# America-s-National-Parks-An-Idyllic-Vacation
+# America's National Parks An Idyllic Vacation
 ## An Investigation of Safety and Popularity of our National Parks
 
 Using Google Sheets, I cleaned and analyzed two datasets about National Parks in the United States: [Annual Visitation](https://docs.google.com/spreadsheets/d/1wZq3XJelD-kdUYf3Oxd_auQQHI6azM1LMl2KIWfeDug/edit?usp=sharing) and [Deaths](https://docs.google.com/spreadsheets/d/1KqiqN5W6-qfpakwQ8XSFkkTGbYLkK7fz8swpUckJTcE/edit?usp=sharing).
@@ -13,7 +13,7 @@ A client for a travel agency wants to vacation at a national park in the United 
 
 The client is asking for the travel agency’s top 3 recommendations for national parks in the United States of America based on their criteria of safest and least popular places. They would also like lists of the top 5 most dangerous and the top 5 most popular national parks, so they can avoid these locations in future travels. 
 
-
+This analysis revealed that visiting national parks is not actually "dangerous" when visitors follow established regulations and use common sense. The rate of deaths per 100,000 visitors for each park shows that the risk of dying while visiting a national park is extremely low. Additionally, the analysis revealed there is no clear overall correlation between a national park's death rate and yearly average visitation, though 3 national parks with the highest death rates are also among the top 10 least visited national parks.   
 
 I presented the following travel recommendations to the client:
 
