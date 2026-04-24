@@ -25,19 +25,32 @@ I presented the following travel recommendations to the client:
    
 ## Project Requirements:
 
+- Identify the top 3 safest and least popular national parks in the United States.
 
+- List the top 5 most dangerous national parks.
+
+- List the top 5 most popular national parks.
   
 ## Methodology:
 
-1)
+1) Use Google Sheets to identify and clean datasets about visitation and death in National Parks in the United States.
 
+2) Perform a focused exploratory data analysis in Google Sheets to answer the client's questions and make a recommendation.
+   
+3) Create data visualizations to share with the client in Google Sheets and Tableau.
+   
+4) Use Google Slides to create a presentation to share major findings and recommendation with the client.
+   
 ## Skills:
 
 #### Google Sheets:
+data cleaning, exploratory data analysis, ranges/tables, filter, pivot table, data visualizations
 
 #### Google Slides:
+presentation for communicating results
 
 #### Tableau: 
+scatterplots
 
 ## Results and Recommendations:
 
