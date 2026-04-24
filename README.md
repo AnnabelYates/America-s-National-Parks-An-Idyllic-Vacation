@@ -68,7 +68,20 @@ This analysis revealed that visiting national parks is not actually "dangerous" 
 
 4) Three of the top 5 most dangerous national parks are also in the top 10 least visited national parks. 
 
+
 #### Top 5 Most Dangerous National Parks: 
+1) North Cascades National Park
+2) Lake Clark National Park & Preserve
+3) Wrangell - St Elias National Park & Reserve
+4) Virgin Islands National Park
+5) Dry Tortugas National Park
+
+#### Top 5 Most Popular National Parks:
+1) Great Smoky Mountains National Park
+2) Grand Canyon National Park
+3) Zion National Park
+4) Rocky Mountain National Park
+5) Yellowstone National Park
 
 ### Vacation Recommendations: 
 
