@@ -13,15 +13,11 @@ A client for a travel agency wants to vacation at a national park in the United 
 
 The client is asking for the travel agency’s top 3 recommendations for national parks in the United States of America based on their criteria of safest and least popular places. They would also like lists of the top 5 most dangerous and the top 5 most popular national parks, so they can avoid these locations in future travels. 
 
-This analysis revealed that visiting national parks is not actually "dangerous" when visitors follow established regulations and use common sense. The rate of deaths per 100,000 visitors for each park shows that the risk of dying while visiting a national park is extremely low. Additionally, the analysis revealed there is no clear overall correlation between a national park's death rate and yearly average visitation, though 3 national parks with the highest death rates are also among the top 10 least visited national parks.   
+This analysis revealed that visiting national parks is not actually "dangerous" when visitors follow established regulations and use common sense. The rate of deaths per 100,000 visitors for each park shows that the risk of dying while visiting a national park is extremely low. Additionally, the analysis revealed there is no clear overall correlation between a national park's death rate and yearly average visitation, though 3 national parks with the highest death rates are also among the top 10 least visited national parks. To select the ideal national park for the client, I determined that the least popular and safest national parks would be those among the top 10 least visited national parks and also have the lowest rates of death per 100,000 visitors. I presented the following travel recommendations to the client:
 
-I presented the following travel recommendations to the client:
-
-1)
-
-2) a
-
-3)  b
+1) Gates of the Arctic National Park
+2) Kobuk Valley National Park
+3) National Park of American Samoa
    
 ## Project Requirements:
 
@@ -85,6 +81,18 @@ This analysis revealed that visiting national parks is not actually "dangerous" 
 
 ### Vacation Recommendations: 
 
+The analysis revealed that the national parks that were the safest were not necessarily also the least visited national parks. To determine which national parks to recommend to the client, I developed this procedure: 
+1) I filtered the data to find the top 10 least popular national parks.
+2) I graphed these national parks on a scatter plot using number of average annual visitors and estimated deaths per 100,000 visitors. 
+3) I defined the safest and least popular national park to be part of the Top 10 Least Popular National Parks and have the lowest death rate possible. 
 
+Following the above procedure, I recommended these three National Parks to the client: 
+1) Gates of the Arctic National Park
+2) Kobuk Valley National Park
+3) National Park of American Samoa
 
 ## Next Steps: 
+
+1) Compare annual visitors per acre to the park’s death rate.
+2) Discover the most risky activities to participate in within a national park.
+3) Analyze a related dataset based on a list of missing people cases within the national parks. 
