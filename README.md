@@ -1,4 +1,4 @@
-# America's National Parks An Idyllic Vacation
+# America's National Parks: An Idyllic Vacation
 ## An Investigation of Safety and Popularity of our National Parks
 
 - Using Google Sheets, I cleaned and analyzed two datasets about National Parks in the United States: [Annual Visitation](https://docs.google.com/spreadsheets/d/1wZq3XJelD-kdUYf3Oxd_auQQHI6azM1LMl2KIWfeDug/edit?usp=sharing) and [Deaths](https://docs.google.com/spreadsheets/d/1KqiqN5W6-qfpakwQ8XSFkkTGbYLkK7fz8swpUckJTcE/edit?usp=sharing).
