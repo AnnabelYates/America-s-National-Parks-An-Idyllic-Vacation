@@ -86,7 +86,7 @@ The analysis revealed that the national parks that were the safest were not nece
 2) I graphed these national parks on a scatter plot using number of average annual visitors and estimated deaths per 100,000 visitors. 
 3) I defined the safest and least popular national park to be part of the Top 10 Least Popular National Parks and have the lowest death rate possible. 
 
-Following the above procedure, I recommended these three National Parks to the client: 
+Following the above procedure, I recommended these three national parks to the client: 
 1) Gates of the Arctic National Park
 2) Kobuk Valley National Park
 3) National Park of American Samoa
