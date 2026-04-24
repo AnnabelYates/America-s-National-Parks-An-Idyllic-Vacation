@@ -1,5 +1,5 @@
 # America-s-National-Parks-An-Idyllic-Vacation
-## An Investigation of Safety and Popularity of Our National Parks 
+## An Investigation of Safety and Popularity of our National Parks
 
 Using Google Sheets, I cleaned and analyzed two datasets about National Parks in the United States: [Annual Visitation](https://docs.google.com/spreadsheets/d/1wZq3XJelD-kdUYf3Oxd_auQQHI6azM1LMl2KIWfeDug/edit?usp=sharing) and [Deaths](https://docs.google.com/spreadsheets/d/1KqiqN5W6-qfpakwQ8XSFkkTGbYLkK7fz8swpUckJTcE/edit?usp=sharing).
 
@@ -8,6 +8,12 @@ I created a data visualization using Tableau called [Top 10 Safest and Least Pop
 With Google Slides, I designed a presentation called [America's National Parks: An Idyllic Vacation](https://docs.google.com/presentation/d/1dMRTdIXtv-Iloh_git2qUsrhX4VyMbCXFcrE77FIm3w/edit?usp=sharing) to share my major findings and travel recommendations. 
 
 ## Executive Summary:
+
+A client for a travel agency wants to vacation at a national park in the United states. The client is particularly safety conscious and prefers to travel to locations that are quiet and are not typical major travel destinations. Travel distance to the national park and cost are not a concern for the client, so even remote locations are being considered for this trip. 
+
+The client is asking for the travel agency’s top 3 recommendations for national parks in the United States of America based on their criteria of safest and least popular places. They would also like lists of the top 5 most dangerous and the top 5 most popular national parks, so they can avoid these locations in future travels. 
+
+
 
 I presented the following travel recommendations to the client:
 
