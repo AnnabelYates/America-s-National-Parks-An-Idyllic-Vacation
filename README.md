@@ -1,4 +1,11 @@
 # America-s-National-Parks-An-Idyllic-Vacation
+## An Investigation of Safety and Popularity of Our National Parks 
+
+Using Google Sheets, I cleaned and analyzed two datasets about National Parks in the United States: [Annual Visitation](https://docs.google.com/spreadsheets/d/1wZq3XJelD-kdUYf3Oxd_auQQHI6azM1LMl2KIWfeDug/edit?usp=sharing) and [Deaths](https://docs.google.com/spreadsheets/d/1KqiqN5W6-qfpakwQ8XSFkkTGbYLkK7fz8swpUckJTcE/edit?usp=sharing).
+
+I created a data visualization using Tableau called [Top 10 Safest and Least Popular National Parks](https://public.tableau.com/views/Top10SafestandLeastPopularNationalParks/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+With Google Slides, I designed a presentation called [America's National Parks: An Idyllic Vacation](https://docs.google.com/presentation/d/1dMRTdIXtv-Iloh_git2qUsrhX4VyMbCXFcrE77FIm3w/edit?usp=sharing) to share my major findings and travel recommendations. 
 
 ## Executive Summary:
 
