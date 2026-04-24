@@ -40,7 +40,7 @@ This analysis revealed that visiting national parks is not actually "dangerous" 
 ## Skills:
 
 #### Google Sheets:
-data cleaning, exploratory data analysis, ranges/tables, filter, pivot table, data visualizations
+data cleaning, exploratory data analysis, ranges/tables, filter, sort, pivot table, data visualizations
 
 #### Google Slides:
 presentation for communicating results
